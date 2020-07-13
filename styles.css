@@ -118,3 +118,32 @@ span{
   text-align: center;
   font-size: 1em;
 }
+.notas{
+  position: relative;
+  top: 20em;
+}
+table{
+  position: relative;
+  width:60%;
+  color: black;
+  margin:auto;
+  user-select: none;
+  text-align: center;
+}
+.table_title{
+  background: white;
+  color: black;
+}
+.table_title th{
+  background: black;
+  color: white;
+  border: none;
+  padding: 0.5em;
+}
+td{
+  width: 100px;
+  padding: 0.3em;
+}
+tr{
+  background: white;
+}
